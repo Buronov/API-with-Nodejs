@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@svg-maps/uzbekistan": "^1.0.0",
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "korean-random-words": "^1.0.3",
+    "morse-code-lib": "^1.0.2",
+    "nodemon": "^2.0.15",
+    "number-to-english": "^1.1.0",
+    "path": "^0.12.7"
+  }
+}
